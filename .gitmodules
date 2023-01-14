@@ -1,0 +1,3 @@
+[submodule "environment/external/asr"]
+	path = environment/external/asr
+	url = https://gitlab.com/asr-dev/asr.git
